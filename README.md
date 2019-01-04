@@ -2,7 +2,7 @@
 ###### (in no particular order)
 
 * Birdbox (2018)
-* It Follows (2014)
+* ~~It Follows (2014)~~
 * Chilling Adventures of Sabrina (2018)
 * Babel (2006)
 * Rosemary's Baby (1968)
