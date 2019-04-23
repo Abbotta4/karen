@@ -11,7 +11,7 @@
 * Dark (2017)
 * Penny Dreadful (2016)
 * Lore (2017)
-* Silence of the Lambs (1991)
+* ~~Silence of the Lambs (1991)~~
 * Cabin in the Woods (2012)
 * Shutter (2004)
 * The Conjuring (2013)
