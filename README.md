@@ -5,7 +5,7 @@
 * ~~It Follows (2014)~~
 * Chilling Adventures of Sabrina (2018)
 * ~~Babel (2006)~~
-* Rosemary's Baby (1968)
+* ~~Rosemary's Baby (1968)~~
 * The Ballad of Buster Scruggs (2018)
 * Death Proof (2007)
 * Dark (2017)
