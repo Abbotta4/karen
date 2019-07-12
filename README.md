@@ -10,7 +10,7 @@
 * ~~Silence of the Lambs (1991)~~
 * Cabin in the Woods (2012)
 * ~~Shutter (2004)~~
-* The Conjuring (2013)
+* ~~The Conjuring (2013)~~
 * ~~Split (2016)~~
 * ~~Under the Silver Lake (2018)~~
 * ~~Hush (2016)~~
