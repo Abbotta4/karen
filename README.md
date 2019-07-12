@@ -1,7 +1,7 @@
 # Movie List
 ###### (in no particular order)
 
-* Birdbox (2018)
+* ~~Birdbox (2018)~~
 * ~~It Follows (2014)~~
 * ~~Babel (2006)~~
 * ~~Rosemary's Baby (1968)~~
