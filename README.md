@@ -13,7 +13,7 @@
 * The Conjuring (2013)
 * ~~Split (2016)~~
 * ~~Under the Silver Lake (2018)~~
-* Hush (2016)
+* ~~Hush (2016)~~
 * ~~Don't Breathe (2016)~~
 * ~~A Quiet Place (2018)~~
 * Velvet Buzzsaw (2019)
