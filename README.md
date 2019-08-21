@@ -21,6 +21,8 @@
 * Corpse Bride (2005)
 * ~~Road House (1989)~~
 * Parasite (2019)
+* IT (2017)
+* The Blob (1958)
 
 # TV List
 ###### (in no particular order)
@@ -30,3 +32,4 @@
 * Penny Dreadful (2016)
 * Lore (2017)
 * Documentary Now! (2015)
+* IT (1990)
