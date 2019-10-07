@@ -23,6 +23,7 @@
 * Parasite (2019)
 * IT (2017)
 * The Blob (1958)
+* The Babadook (2014)
 
 # TV List
 ###### (in no particular order)
