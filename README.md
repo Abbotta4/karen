@@ -71,6 +71,7 @@
 * You Only Live Twice (1967)
 * Zodiac (2007)
 * Scarface (1983)
+* Citizen Kane (1941)
 
 # TV List
 ###### (in no particular order)
