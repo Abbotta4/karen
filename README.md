@@ -50,6 +50,7 @@
 * ~~Silence of the Lambs (1991)~~
 * Sin City (2005)
 * ~~Split (2016)~~
+* Suspiria (2018)
 * Taxi Driver (1976)
 * The Artist (2011)
 * ~~The Babadook (2014)~~
@@ -76,6 +77,7 @@
 # TV List
 ###### (in alphabetical order)
 
+* Altered Carbon (2018)
 * Chilling Adventures of Sabrina (2018)
 * Dark (2017)
 * Documentary Now! (2015)
