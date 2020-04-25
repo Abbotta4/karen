@@ -3,7 +3,7 @@
 
 * ~~A Quiet Place (2018)~~
 * ~~A Touch of Sin (2013)~~
-* All The President's Men (1976)
+* ~~All The President's Men (1976)~~
 * Amelie (2001)
 * American History X (1998)
 * Atonement (2007)
@@ -16,10 +16,10 @@
 * Casino Royale (1967)
 * Citizen Kane (1941)
 * ~~Corpse Bride (2005)~~
-* Death Proof (2007)
+* ~~Death Proof (2007)~~
 * ~~Don't Breathe (2016)~~
 * ~~Doubt (2008)~~
-* Dr. No (1963)
+* ~~Dr. No (1963)~~
 * Eyes Wide Shut (1999)
 * First Reformed (2018)
 * Flash Point (2007)
