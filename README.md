@@ -44,7 +44,7 @@
 * Psycho (1960)
 * ~~Road House (1989)~~
 * ~~Rosemary's Baby (1968)~~
-* Scarface (1983)
+* ~~Scarface (1983)~~
 * Scott Pilgrim vs. the World (2010)
 * ~~Shutter (2004)~~
 * ~~Silence of the Lambs (1991)~~
