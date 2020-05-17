@@ -12,7 +12,6 @@
 * ~~Birdbox (2018)~~
 * Bowling for Columbine (2002)
 * Bronson (2008)
-* Cabin in the Woods (2012)
 * Casino Royale (1967)
 * Citizen Kane (1941)
 * ~~Corpse Bride (2005)~~
