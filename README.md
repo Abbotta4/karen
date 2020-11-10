@@ -36,10 +36,10 @@
 * ~~Doubt (2008)~~
 * ~~Dr. No (1963)~~
 * Enter the Void (2009)
-* Equilibrium (2002)
+* ~~Equilibrium (2002)~~
 * Europa Report (2013)
-* Event Horizon (1997)
-* Extracted (2012)
+* ~~Event Horizon (1997)~~
+* ~~Extracted (2012)~~
 * Eyes Wide Shut (1999)
 * Fear and Loathing in Las Vegas (1998)
 * First Reformed (2018)
@@ -56,7 +56,7 @@
 * Immortal (2004)
 * ~~IT (2017)~~
 * ~~It Follows (2014)~~
-* Jacob's Ladder (1990)
+* ~~Jacob's Ladder (1990)~~
 * Johnny Mnemonic (1995)
 * Lawless (2012)
 * Life of Brian (1979)
@@ -84,7 +84,7 @@
 * ~~Rosemary's Baby (1968)~~
 * Serenity (2019)
 * ~~Scarface (1983)~~
-* Scott Pilgrim vs. the World (2010)
+* ~~Scott Pilgrim vs. the World (2010)~~
 * ~~Shutter (2004)~~
 * ~~Silence of the Lambs (1991)~~
 * Sin City (2005)
@@ -102,7 +102,7 @@
 * ~~The Babadook (2014)~~
 * The Bad Seed (1956)
 * ~~The Ballad of Buster Scruggs (2018)~~
-* The Blob (1958)
+* ~~The Blob (1958)~~
 * The Bothersome Man (2006)
 * The Cable Guy (1996)
 * ~~The Conjuring (2013)~~
@@ -112,19 +112,19 @@
 * ~~The Haunting (1963)~~
 * The Hitchhiker's Guide to the Galaxy (2005)
 * The Island (2005)
-* The Jacket (2005)
+* ~~The Jacket (2005)~~
 * The Lives of Others (2006)
 * The Machinist (2004)
 * The Maltese Falcon (1941)
 * The Manchurian Candidate (1962)
 * The Matrix (1999)
-* The Orphanage (2007)
+* ~~The Orphanage (2007)~~
 * The Purple Rose of Cairo (1985)
 * The Thirteenth Floor (1999)
 * The Time Machine (2002)
 * They Live (1988)
 * They Shoot Horses, Don't They? (1969)
-* Total Recall (1990)
+* ~~Total Recall (1990)~~
 * Transcendence (2014)
 * Twelve Monkeys (1995)
 * Ulee's Gold (1997)
@@ -132,7 +132,7 @@
 * Velvet Buzzsaw (2019)
 * Victor Frankenstein (2015)
 * Waking Life (2001)
-* What We Do in the Shadows (2014)
+* ~~What We Do in the Shadows (2014)~~
 * World on a Wire (1973)
 * You Only Live Twice (1967)
 * ~~Zodiac (2007)~~
