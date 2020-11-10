@@ -76,7 +76,7 @@
 * Persepolis (2007)
 * Pi (1998)
 * Prometheus (2012)
-* Psycho (1960)
+* ~~Psycho (1960)~~
 * Push (2009)
 * Requiem for a Dream (2000)
 * ~~Road House (1989)~~
