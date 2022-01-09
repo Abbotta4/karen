@@ -1,7 +1,7 @@
 from random import choice
 from sys import argv
 
-if len(argv) is not 2 or argv[1] not in ['movie', 'tv']:
+if len(argv) != 2 or argv[1] not in ['movie', 'tv']:
     print("Usage: python " + __file__ + " (movie | tv)")
     exit(1)
 
