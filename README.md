@@ -14,12 +14,12 @@
 * Atonement (2007)
 * ~~Babel (2006)~~
 * Being John Malkovich (1999)
-* Ben-Hur (1959)
+* ~~Ben-Hur (1959)~~
 * ~~Birdbox (2018)~~
 * Blade Runner (1982)
-* Bowling for Columbine (2002)
+* ~~Bowling for Columbine (2002)~~
 * Brazil (1985)
-* Bronson (2008)
+* ~~Bronson (2008)~~
 * Cargo (2017)
 * Casino Royale (1967)
 * Children of Men (2006)
@@ -45,7 +45,7 @@
 * First Reformed (2018)
 * Flash Point (2007)
 * From Russia with Love (1964)
-* Gattaca (1997)
+* ~~Gattaca (1997)~~
 * Ghost in the Shell (1995)
 * GoodFellas (1990)
 * ~~Harold and Maude (1971)~~
@@ -59,13 +59,13 @@
 * ~~Jacob's Ladder (1990)~~
 * Johnny Mnemonic (1995)
 * Lawless (2012)
-* Life of Brian (1979)
+* ~~Life of Brian (1979)~~
 * Me and Earl and the Dying Girl (2015)
 * Me, Myself & Irene (2000)
 * Minority Report (2002)
 * ~~Misery (1990)~~
 * Mission to Mars (2000)
-* Mulholland Drive (2001)
+* ~~Mulholland Drive (2001)~~
 * Nirvana (1997)
 * O Brother, Where Art Thou? (2000)
 * Oblivion (2013)
@@ -87,7 +87,7 @@
 * ~~Scott Pilgrim vs. the World (2010)~~
 * ~~Shutter (2004)~~
 * ~~Silence of the Lambs (1991)~~
-* Sin City (2005)
+* ~~Sin City (2005)~~
 * Sleep Dealer (2008)
 * Solaris (1972)
 * ~~Split (2016)~~
@@ -95,8 +95,8 @@
 * Sunshine (2007)
 * Surrogates (2009)
 * Suspiria (2018)
-* Taxi Driver (1976)
-* Terminator (1984)
+* ~~Taxi Driver (1976)~~
+* ~~Terminator (1984)~~
 * The Artist (2011)
 * The Animatrix (2003)
 * ~~The Babadook (2014)~~
@@ -115,7 +115,7 @@
 * ~~The Jacket (2005)~~
 * The Lives of Others (2006)
 * The Machinist (2004)
-* The Maltese Falcon (1941)
+* ~~The Maltese Falcon (1941)~~
 * The Manchurian Candidate (1962)
 * The Matrix (1999)
 * ~~The Orphanage (2007)~~
@@ -147,4 +147,4 @@
 * Documentary Now! (2015)
 * IT (1990)
 * Lore (2017)
-* Penny Dreadful (2016)
+* ~~Penny Dreadful (2016)~~
