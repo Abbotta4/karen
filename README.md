@@ -134,7 +134,7 @@
 * The Lives of Others (2006)
 * The Machinist (2004)
 * ~~The Maltese Falcon (1941)~~
-* The Manchurian Candidate (1962)
+* ~~The Manchurian Candidate (1962)~~
 * The Matrix (1999)
 * ~~The Orphanage (2007)~~
 * The Purple Rose of Cairo (1985)
